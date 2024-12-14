@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\UnityProjects\\soedini\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BCA31561-20E1-524A-225C-A872C898F5F7}|Assembly-CSharp.csproj|D:\\UnityProjects\\soedini\\assets\\scripts\\borderscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCA31561-20E1-524A-225C-A872C898F5F7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\borderscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCA31561-20E1-524A-225C-A872C898F5F7}|Assembly-CSharp.csproj|D:\\UnityProjects\\soedini\\assets\\scripts\\combinecirclesscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCA31561-20E1-524A-225C-A872C898F5F7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\combinecirclesscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCA31561-20E1-524A-225C-A872C898F5F7}|Assembly-CSharp.csproj|D:\\UnityProjects\\soedini\\assets\\scripts\\circlesmovementscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCA31561-20E1-524A-225C-A872C898F5F7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\circlesmovementscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCA31561-20E1-524A-225C-A872C898F5F7}|Assembly-CSharp.csproj|d:\\unityprojects\\soedini\\assets\\scripts\\scorescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCA31561-20E1-524A-225C-A872C898F5F7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scorescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCA31561-20E1-524A-225C-A872C898F5F7}|Assembly-CSharp.csproj|D:\\UnityProjects\\soedini\\assets\\scripts\\spawnerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCA31561-20E1-524A-225C-A872C898F5F7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\spawnerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ScoreScript.cs",
+              "DocumentMoniker": "D:\\UnityProjects\\soedini\\Assets\\Scripts\\ScoreScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ScoreScript.cs",
+              "ToolTip": "D:\\UnityProjects\\soedini\\Assets\\Scripts\\ScoreScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ScoreScript.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T09:30:30.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BorderScript.cs",
+              "DocumentMoniker": "D:\\UnityProjects\\soedini\\Assets\\Scripts\\BorderScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BorderScript.cs",
+              "ToolTip": "D:\\UnityProjects\\soedini\\Assets\\Scripts\\BorderScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BorderScript.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T11:24:14.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CombineCirclesScript.cs",
+              "DocumentMoniker": "D:\\UnityProjects\\soedini\\Assets\\Scripts\\CombineCirclesScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CombineCirclesScript.cs",
+              "ToolTip": "D:\\UnityProjects\\soedini\\Assets\\Scripts\\CombineCirclesScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CombineCirclesScript.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T15:39:37.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CirclesMovementScript.cs",
+              "DocumentMoniker": "D:\\UnityProjects\\soedini\\Assets\\Scripts\\CirclesMovementScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CirclesMovementScript.cs",
+              "ToolTip": "D:\\UnityProjects\\soedini\\Assets\\Scripts\\CirclesMovementScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CirclesMovementScript.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwAQAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T11:35:43.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SpawnerScript.cs",
+              "DocumentMoniker": "D:\\UnityProjects\\soedini\\Assets\\Scripts\\SpawnerScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SpawnerScript.cs",
+              "ToolTip": "D:\\UnityProjects\\soedini\\Assets\\Scripts\\SpawnerScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SpawnerScript.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwBMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T11:23:12.908Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2 @@
+Build path: D:/UnityProjects/soediniNew/build
+Build number: 44
